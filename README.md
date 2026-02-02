@@ -13,7 +13,7 @@
   - jpegをpngに変換して保存  
   など...
 
-- [アンプ音量操作アプリ](https://github.com/Plana-ria/YamahaVolumeChanger)
+- [アンプ音量操作アプリ](https://github.com/Plana-ria/YamahaVolumeChanger)  
 HDMI接続したYamaha製AVアンプをMacから音量操作するアプリ  
   
   
