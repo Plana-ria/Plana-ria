@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Plana-ria&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Plana-ria&layout=compact&langs_count=8)](https://github-stats-extended.vercel.app/api/top-langs?username=Plana-ria&layout=compact&langs_count=8)
 
 # 制作物
 - [RAGベースのQAシステムのデモコード](https://github.com/Plana-ria/langgraph_rag_qa_demo)  
