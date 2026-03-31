@@ -15,7 +15,3 @@
 
 - [アンプ音量操作アプリ](https://github.com/Plana-ria/YamahaVolumeChanger)  
 HDMI接続したYamaha製AVアンプをMacから音量操作するアプリ  
-  
-  
-# その他の制作物
-- https://planaria.page/blog/work
