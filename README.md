@@ -7,6 +7,9 @@
 - [インタビュー検索システム](https://github.com/Plana-ria/topic_search)  
 インタビュー動画をDaVinci ResolveのAI文字起こし機能で文字起こししたテキストファイルを基に、インタビュー内容をキーワードと意味ベクトルで検索するシステム
 
+- [資料OCR・検索システム](https://github.com/Plana-ria/ocr_search)
+PDFや画像資料を文字認識（OCR）して、ブラウザ上でキーワード検索できるようにするためのシステム
+  
 - [画像・動画をフォーマットを変換して保存するChrome拡張機能](https://github.com/Plana-ria/converted_downloader)  
 画像や動画を右クリックして、フォーマットを変換して保存するChrome拡張機能
   - gifをmp4に変換して保存
